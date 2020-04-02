@@ -2,6 +2,7 @@ const staticToggleLight = "toggle-light-site-v1";
 const assets = [
   "/",
   "/index.html",
+  "/favicon.ico",
   "/css/style.css",
   "/js/app.js"
 ];
